@@ -17,7 +17,7 @@
 
 Simple elementor extension.
 
-### Widgetes (4) ###
+### Widgets (4) ###
 * Vertical Menu
 * Search Screen - Product Search & Post Search
 * My Cart - Quantity & Amount
